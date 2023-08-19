@@ -1,12 +1,12 @@
----
+[Goldwater_presentation.pptx](https://github.com/NalaHam/NalaHam.github.io/files/12386841/Goldwater_presentation.pptx)---
 layout: page
 title: Research Presentations
 ---
-## Barry Goldwater Research Symposium
+## 3rd Annual Goldwater Research Symposium
 Aug 2023
 
 
-[The evolution of escape genes and their influence on human disease](file:///Users/nalahamilton/Downloads/Summary%20of%20Mammals%20and%20Escape.pdf)
+[Escape from X chromosome inactivation loci encoding disease (EXILED) as a possible genomic mechanism for sex disparity in disease](file:///Users/nalahamilton/Desktop/Goldwater_presentation.pdf)
 
 ## Diamond Research Scholars Program (Temple University)
 May 2023–Dec 2023
