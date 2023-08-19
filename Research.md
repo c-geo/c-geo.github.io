@@ -1,7 +1,9 @@
-[Goldwater_presentation.pptx](https://github.com/NalaHam/NalaHam.github.io/files/12386841/Goldwater_presentation.pptx)---
+
+---
 layout: page
 title: Research Presentations
 ---
+
 ## 3rd Annual Goldwater Research Symposium
 Aug 2023
 
