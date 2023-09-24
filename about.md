@@ -91,6 +91,16 @@ Temple University CST - Philadelphia, PA - Sep 2022
 
 <p>&nbsp;</p>
 
+__Goldwater Scholar Community (GSC)__
+
+National Organization - May 2023-Current
+
+
+&nbsp; &nbsp; &nbsp; •	Webinar Committee officer.
+
+
+&nbsp; &nbsp; &nbsp; •	Organized and hosted "Women in Professional Research" webinar.
+
 __Scientific Design (Sci-Design)__
 
 Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
@@ -118,6 +128,9 @@ Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 •	Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
 
 ## Activities  
+•	Goldwater Scholar Community Webinar officer and member
+
+
 •	Center for Computational Genetics and Genomics (CCGG) member 
 
 
