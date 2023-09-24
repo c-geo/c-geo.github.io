@@ -101,6 +101,8 @@ National Organization - May 2023-Current
 
 &nbsp; &nbsp; &nbsp; •	Organized and hosted "Women in Professional Research" webinar.
 
+<p>&nbsp;</p>
+
 __Scientific Design (Sci-Design)__
 
 Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
