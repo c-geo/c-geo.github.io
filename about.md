@@ -127,7 +127,7 @@ Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 •	3.94 GPA
 
 
-•	Volunteer Tutor in Algebra, Pre-Calculus, and Calculus
+•	Algebra, Pre-Calculus, and Calculus Tutor
 
 ## Activities  
 •	Goldwater Scholar Community Webinar officer and member
