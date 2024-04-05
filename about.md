@@ -20,16 +20,16 @@ Collaboration and Organization (in relation to being a leader in a Student Organ
 ## Education 
 __Visual Arts / High School Deploma__ &nbsp; Jun 2020
 
-&nbsp; &nbsp; &nbsp; Capital Area School for The Arts Charter - Harrisburg, PA
+Capital Area School for The Arts Charter - Harrisburg, PA
 
 __High School Dual Enrollment__ &nbsp; Jun 2018 – Aug 2019
 
-&nbsp; &nbsp; &nbsp; Harrisburg Area Community College - Harrisburg, PA
+Harrisburg Area Community College - Harrisburg, PA
 
 __Bachelor of Science__ &nbsp; May 2024 
 
-&nbsp; &nbsp; &nbsp; Biology with Genomics in Medicine Certificate
-&nbsp; &nbsp; &nbsp; Temple University - Philadelphia, PA
+Biology with Genomics in Medicine Certificate
+Temple University - Philadelphia, PA
 
 ## Awards and Fellowships 
 __NSF GRFP Honorable Mention__ &nbsp; April 2024
