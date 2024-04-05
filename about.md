@@ -41,12 +41,10 @@ Awarded for research in identifying genes contributing to sexual disparities in 
 __Diamond Research Scholarship__ &nbsp; May 2023–Dec 2023
 
 Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
-<p>&nbsp;</p>
 
 __Frances Velay Fellowship__ &nbsp; May 2022–Aug 2022
 
 Completed research in identifying genes contributing to sexual disparities in cancer. 
-<p>&nbsp;</p>
 
 __W.W. Smith Charitable Trust Scholarship__ &nbsp; May 2022–Current
 
