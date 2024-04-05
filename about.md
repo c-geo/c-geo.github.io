@@ -19,12 +19,15 @@ Collaboration and Organization (in relation to being a leader in a Student Organ
 
 ## Education 
 Visual Arts:
+
 Capital Area School for The Arts Charter - Harrisburg, PA - Jun 2020
 
 High School Dual Enrollment:
+
 Harrisburg Area Community College - Harrisburg, PA - Jun 2018–Aug 2019
 
 Bachelor of Science: 
+
 Biology with Genomics in Medicine Certificate
 Temple University - Philadelphia, PA - Expected Graduation May 2024
 
