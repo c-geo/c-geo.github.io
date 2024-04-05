@@ -3,11 +3,18 @@ layout: page
 title: Research Presentations
 ---
 
+## Diamond Research Scholars Program (Temple University)
+Nov 2023
+
+
+![_config.yml]({{ site.baseurl }}/images/fall_2023_poster.png)
+
+
 ## 3rd Annual Goldwater Research Symposium
 Aug 2023
 
 
-[Escape from X chromosome inactivation loci encoding disease (EXILED) as a possible genomic mechanism for sex disparity in disease](file:///Users/nalahamilton/Desktop/Goldwater_presentation.pdf)
+[Escape from X chromosome inactivation loci encoding disease (EXILED) as a possible genomic mechanism for sex disparity in disease](file:///Users/nalahamilton/Desktop/Summer_2023_Research/Goldwater_presentation.pdf)
 
 ## Diamond Research Scholars Program (Temple University)
 May 2023–Dec 2023
