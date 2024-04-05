@@ -36,11 +36,11 @@ __NSF GRFP Honorable Mention__ &nbsp; April 2024
 
 __Goldwater Scholarship__ &nbsp; March 2023
 
-&nbsp; &nbsp; &nbsp; Awarded for research in identifying genes contributing to sexual disparities in cancer.
+Awarded for research in identifying genes contributing to sexual disparities in cancer.
 
 __Diamond Research Scholarship__ &nbsp; May 2023–Dec 2023
 
-&nbsp; &nbsp; &nbsp; Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
+Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 <p>&nbsp;</p>
 
 __Frances Velay Fellowship__ &nbsp; May 2022–Aug 2022
