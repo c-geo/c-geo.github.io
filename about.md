@@ -12,7 +12,9 @@ Undergraduate Student Researcher at Temple University Philadelphia, PA
 Python and R programming
 
 Microsoft Excel
+
 Familiarity with TCGA and GTEx databases
+
 Collaboration and Organization (in relation to being a leader in a Student Organization)
 
 ## Education 
