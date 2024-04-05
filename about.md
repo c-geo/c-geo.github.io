@@ -18,21 +18,21 @@ Familiarity with TCGA and GTEx databases
 Collaboration and Organization (in relation to being a leader in a Student Organization)
 
 ## Education 
-Visual Arts:
+__Visual Arts__ :
 
 Capital Area School for The Arts Charter - Harrisburg, PA - Jun 2020
 
-High School Dual Enrollment:
+__High School Dual Enrollment__:
 
 Harrisburg Area Community College - Harrisburg, PA - Jun 2018–Aug 2019
 
-Bachelor of Science: 
+__Bachelor of Science__: 
 
 Biology with Genomics in Medicine Certificate
 Temple University - Philadelphia, PA - Expected Graduation May 2024
 
 ## Awards and Fellowships 
-
+__NSF GRFP Honorable Mention__ &nbsp; April 2024
 
 __Goldwater Scholarship__ &nbsp; March 2023
 
