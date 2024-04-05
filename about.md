@@ -18,30 +18,29 @@ Familiarity with TCGA and GTEx databases
 Collaboration and Organization (in relation to being a leader in a Student Organization)
 
 ## Education 
-__Visual Arts__ :
+__Visual Arts / High School Deploma__ &nbsp; Jun 2020
 
-Capital Area School for The Arts Charter - Harrisburg, PA - Jun 2020
+&nbsp; &nbsp; &nbsp; Capital Area School for The Arts Charter - Harrisburg, PA
 
-__High School Dual Enrollment__:
+__High School Dual Enrollment__ &nbsp; Jun 2018 – Aug 2019
 
-Harrisburg Area Community College - Harrisburg, PA - Jun 2018–Aug 2019
+&nbsp; &nbsp; &nbsp; Harrisburg Area Community College - Harrisburg, PA
 
-__Bachelor of Science__: 
+__Bachelor of Science__ &nbsp; May 2024 
 
-Biology with Genomics in Medicine Certificate
-Temple University - Philadelphia, PA - Expected Graduation May 2024
+&nbsp; &nbsp; &nbsp; Biology with Genomics in Medicine Certificate
+&nbsp; &nbsp; &nbsp; Temple University - Philadelphia, PA
 
 ## Awards and Fellowships 
 __NSF GRFP Honorable Mention__ &nbsp; April 2024
 
 __Goldwater Scholarship__ &nbsp; March 2023
 
-Awarded for research in identifying genes contributing to sexual disparities in cancer.
-<p>&nbsp;</p>
+&nbsp; &nbsp; &nbsp; Awarded for research in identifying genes contributing to sexual disparities in cancer.
 
 __Diamond Research Scholarship__ &nbsp; May 2023–Dec 2023
 
-Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
+&nbsp; &nbsp; &nbsp; Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
 <p>&nbsp;</p>
 
 __Frances Velay Fellowship__ &nbsp; May 2022–Aug 2022
