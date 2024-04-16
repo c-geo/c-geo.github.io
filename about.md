@@ -18,45 +18,35 @@ Familiarity with TCGA and GTEx databases
 Collaboration and Organization (in relation to being a leader in a Student Organization)
 
 ## Education 
-Visual Arts:
+__Visual Arts / High School Deploma__ &nbsp; Jun 2020
 
-Capital Area School for The Arts Charter - Harrisburg, PA - Jun 2020
-<p>&nbsp;</p>
+Capital Area School for The Arts Charter - Harrisburg, PA
 
-High School Dual Enrollment:
+__High School Dual Enrollment__ &nbsp; Jun 2018 – Aug 2019
 
-Harrisburg Area Community College - Harrisburg, PA - Jun 2018–Aug 2019
-<p>&nbsp;</p>
+Harrisburg Area Community College - Harrisburg, PA
 
-Bachelor of Science: 
+__Bachelor of Science__ &nbsp; May 2024 
 
 Biology with Genomics in Medicine Certificate
-
-Temple University - Philadelphia, PA - Expected Graduation May 2024
+Temple University - Philadelphia, PA
 
 ## Awards and Fellowships 
-
+__NSF GRFP Honorable Mention__ &nbsp; April 2024
 
 __Goldwater Scholarship__ &nbsp; March 2023
 
-
 Awarded for research in identifying genes contributing to sexual disparities in cancer.
-<p>&nbsp;</p>
 
 __Diamond Research Scholarship__ &nbsp; May 2023–Dec 2023
 
-
 Completed research in identifying genomic mechanisms contributing to sexual disparities in disease.
-<p>&nbsp;</p>
 
 __Frances Velay Fellowship__ &nbsp; May 2022–Aug 2022
 
-
 Completed research in identifying genes contributing to sexual disparities in cancer. 
-<p>&nbsp;</p>
 
 __W.W. Smith Charitable Trust Scholarship__ &nbsp; May 2022–Current
-
 
 Awarded to high achieving Temple University students with financial need and interest in research.
 
@@ -65,9 +55,7 @@ __Kulathinal Lab for Evolutionary Genetics and Biological Informatics__
 
 Temple University Biology Department - Philadelphia, PA - May 2020-Current
 
-
 &nbsp; &nbsp; &nbsp; •	Completed multiple literature reviews on sex bias in disease. 
-
 
 &nbsp; &nbsp; &nbsp; •	Gained research experience in analyzing large genomic data. 
 
@@ -77,7 +65,6 @@ __Biology Undergraduate Research Symposium__
 
 Temple University CST - Philadelphia, PA - April 2023
 
-
 &nbsp; &nbsp; &nbsp; •	Poster presentation on research in escape genes and their role in disease response.
 
 <p>&nbsp;</p>
@@ -85,7 +72,6 @@ Temple University CST - Philadelphia, PA - April 2023
 __CST Undergraduate Research Symposium__
 
 Temple University CST - Philadelphia, PA - Sep 2022
-
 
 &nbsp; &nbsp; &nbsp; •	Poster presentation on research in identifying genes contributing to sexual disparities in cancer. 
 
@@ -95,9 +81,7 @@ __Goldwater Scholar Community (GSC)__
 
 National Organization - May 2023-Current
 
-
 &nbsp; &nbsp; &nbsp; •	Webinar Committee officer.
-
 
 &nbsp; &nbsp; &nbsp; •	Organized and hosted "Women in Professional Research" webinar.
 
@@ -107,12 +91,9 @@ __Scientific Design (Sci-Design)__
 
 Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 
-
 &nbsp; &nbsp; &nbsp; •	President and founder of the organization. 
 
-
 &nbsp; &nbsp; &nbsp; •	Organization focuses on science education and communication through visual art.
-
 
 &nbsp; &nbsp; &nbsp; •	Focus on leadership, organization of members and events, and biology education YouTube channel.
 
@@ -120,27 +101,20 @@ Temple University Student Organization - Philadelphia, PA - Aug 2021-Current
 
 •	Dean's List - Fall 2020-Current 
 
-
 •	Honors - Fall 2020-Current
 
-
 •	3.94 GPA
-
 
 •	Algebra, Pre-Calculus, and Calculus Tutor
 
 ## Activities  
 •	Goldwater Scholar Community Webinar officer and member
 
-
 •	Center for Computational Genetics and Genomics (CCGG) member 
-
 
 •	Sci-Design President and founder
 
-
 •	Biology Society member
-
 
 •	Received two Scholastic Arts & Writing Awards for visual art. Showcased in PA's State Museum.
 
