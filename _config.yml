@@ -9,7 +9,7 @@ name: Caroline George
 description: Cellular Neuroscience Researcher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/image000000.JPG)
+avatar: https://avatars.githubusercontent.com/u/120533177?v=4
 #
 # Flags below are optional
 #
