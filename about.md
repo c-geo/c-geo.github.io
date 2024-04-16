@@ -15,6 +15,14 @@ Collaboration and Organization (in relation to being a leader in a Student Organ
 
 Gained Level 2 clearance at Temple University’s neuroimaging center, TUBRIC
 
+## Academic History 
+
+•	Dean's List - Fall 2020-May 2024
+
+•	Honors - Fall 2020-May 2024
+
+•	3.97 GPA
+
 ## Education 
 __High School Deploma__ &nbsp; Jun 2020
 
@@ -83,6 +91,7 @@ R01
 
 &nbsp; &nbsp; &nbsp; • Conducted an independent, internationally collaborative research project with Dr. Jaaskelainen at Aalto University to
 understand the cerebellum’s role in fear response mediation
+
 <p>&nbsp;</p>
 
 __Department of Chemistry, Temple University__
@@ -146,14 +155,6 @@ Volunteer - May 2021-December 2021
 &nbsp; &nbsp; &nbsp; • Participated in community clean-up for the surrounding neighborhoods
 
 <p>&nbsp;</p>
-
-## Academic History 
-
-•	Dean's List - Fall 2020-May 2024
-
-•	Honors - Fall 2020-May 2024
-
-•	3.97 GPA
 
 
 ## Activities  
