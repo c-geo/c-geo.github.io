@@ -38,7 +38,9 @@ Awarded for scoring in the top 5,000 highest scores for the SAT or ACT in Pennsy
 
 ## Experience and Research 
 __Granato Lab, University of Pennsylvania__ 
+
 Undergraduate Research Assistant - December 2023-Present
+
 &nbsp; &nbsp; &nbsp; • Currently learning genome sequencing techniques like PCR
 
 &nbsp; &nbsp; &nbsp; • Monitored and sorted zebrafish embryos and tracked their development
@@ -47,12 +49,16 @@ Undergraduate Research Assistant - December 2023-Present
 <p>&nbsp;</p>
 
 __Temple University Student Success Center__
+
 STEM Tutor - January 2023-December 2023
+
 &nbsp; &nbsp; &nbsp; • Tutored and advised students struggling with material in STEM courses through homework assignments and test preparation
 <p>&nbsp;</p>
 
 __Social and Affective Neuroscience Lab, Temple University__
+
 Research Assistant - August 2023-December 2023
+
 &nbsp; &nbsp; &nbsp; • Analyzed behavioral data using multilevel models, lag-conditional probability curves and other analyses
 
 &nbsp; &nbsp; &nbsp; • Delegated research project tasks within a small group of other research assistants
@@ -63,7 +69,9 @@ Research Assistant - August 2023-December 2023
 <p>&nbsp;</p>
 
 __Research in Spatial Cognition Lab & Cognitive Neuroscience Lab, Temple University__ 
+
 Undergraduate Research Intern & LAURA Scholar - August 2022-December 2023
+
 &nbsp; &nbsp; &nbsp; • Conducted research sessions with children and collected behavioral data as part of the R01 study
 
 &nbsp; &nbsp; &nbsp; • Actively engaged with meetings and talks presented in the lab, troubleshooted some logistical issues concerning the
@@ -78,12 +86,16 @@ understand the cerebellum’s role in fear response mediation
 <p>&nbsp;</p>
 
 __Department of Chemistry, Temple University__
+
 Undergraduate Course Assistant - August 2022-May 2023
+
 &nbsp; &nbsp; &nbsp; • Prepared and organized solvents and materials for the organic chemistry labs
 <p>&nbsp;</p>
 
-__Neuroendocrinology and Behavior Lab, Temple University__................................................ May 2022-July 2022
-NIH National Institute on Drug Abuse (NIDA) Summer Research Intern
+__Neuroendocrinology and Behavior Lab, Temple University__
+
+NIH National Institute on Drug Abuse (NIDA) Summer Research Intern - May 2022-July 2022
+
 &nbsp; &nbsp; &nbsp; • Handled and ran rats in operant boxes to test the effects of early-life stress on stimulant drug taking behavior
 
 &nbsp; &nbsp; &nbsp; • Analyzed and observed maternal aggression behavior in rats using Solomon Coder
@@ -124,7 +136,9 @@ Artist - September 2021-December 2022
 
 
 __Prevention Point Philadelphia__
+
 Volunteer - May 2021-December 2021
+
 &nbsp; &nbsp; &nbsp; • Aided in the syringe exchange service to help put together wound care and supplies kits
 
 &nbsp; &nbsp; &nbsp; • Distributed meals and clothes to those from and outside of the Kensington region
