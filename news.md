@@ -3,4 +3,4 @@ layout: page
 title: Temple University News
 ---
 
-[Celebrating Two Goldwater Scholars and Two Firsts](https://news.temple.edu/news/2023-04-21/celebrating-two-goldwater-scholars-and-two-firsts)
+[At an R1 institution, Temple undergrads lead innovative research]([https://news.temple.edu/news/2024-02-21/r1-institution-temple-undergrads-lead-innovative-research])
