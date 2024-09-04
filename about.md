@@ -3,17 +3,42 @@ layout: page
 title:  
 permalink: /about/
 ---
-Researcher at University of Pennsylvania Granato Lab, department of Cell and Developmental Biology Philadelphia, PA 
+Researcher at University of Pennsylvania Granato Lab, Perelman School of Medicine, Department of Cell and Developmental Biology in Philadelphia, PA 
 
 # Resume
+## Education 
+__High School Diploma__ &nbsp; Jun 2020
+
+J.R Masterman Laboratory and Demonstration High School - 1699 Spring Garden St, Philadelphia, PA 19130
+
+__Bachelor of Science in Neuroscience__ &nbsp; May 2024 
+
+College of Liberal Arts, Temple University - 1801 N Broad St, Philadelphia, PA 19122
+
+
 ## Skills  
-Bash, Python, and R programming
+__Lab & Research__ &nbsp;
+Proficient Bash, Python, and R scripting
 
 Microsoft Excel
 
+Micropipetting
+
+Confocal Fluorescent Microscopy
+
+Gel electrophoresis
+
+Zebrafish maintenance and care
+
+
+__Soft Skills__ &nbsp;
+
 Collaboration and Organization (in relation to being a leader in a Student Organization)
 
-Gained Level 2 clearance at Temple University’s neuroimaging center, TUBRIC
+Time management
+
+Troubleshooting
+
 
 ## Academic History 
 
@@ -23,26 +48,17 @@ Gained Level 2 clearance at Temple University’s neuroimaging center, TUBRIC
 
 •	3.97 GPA
 
-## Education 
-__High School Deploma__ &nbsp; Jun 2020
 
-J.R Masterman Laboratory and Demonstration High School - Philadelphia, PA 
+## Awards and Honors 
 
-__Bachelor of Science in Neuroscience__ &nbsp; May 2024 
-
-Temple University - Philadelphia, PA
-
-## Awards and Fellowships 
-
-__Liberal Arts Undergraduate Research Awards (LAURA)__ &nbsp; Fall 2023
-
+__Liberal Arts Undergraduate Research Awards (LAURA) Scholarship__ &nbsp; Fall 2023
+&nbsp; Conducted an independent research project as a collaboration between the Social and Affective Neuroscience Lab and the Cognitive Neuroscience lab at Temple University
 
 __Creative Arts, Research, and Scholarship (CARAS)__ &nbsp; Summer 2023
+&nbsp; Conducted an independent research project in the Cognitive Neuroscience lab at Temple University and worked with the Jaaskelainen Lab at Aalto University in Helsinki, Finland
 
+__Dean's List__ &nbsp; Fall 2020, 2021; 2022; 2023; 2024
 
-__Certificate of Merit__ &nbsp; 2020
-
-Awarded for scoring in the top 5,000 highest scores for the SAT or ACT in Pennsylvania in 2020
 
 ## Experience and Research 
 __Granato Lab, University of Pennsylvania__ 
@@ -112,9 +128,13 @@ NIH National Institute on Drug Abuse (NIDA) Summer Research Intern - May 2022-Ju
 &nbsp; &nbsp; &nbsp; • Presented during lab journal clubs, and gave a short talk for the NIDA Summer Research Showcase
 <p>&nbsp;</p>
 
-__Undergraduate Research Symposium__
+## Presentations
 
-Temple University CLA - Philadelphia, PA - Sep 2022
+__Summer Undergraduate Internship Program Symposium__ &nbsp; IDEAL Research, University of Pennsylvania; August 2024
+
+__Symposium for Undergraduate Research and Creativity__ &nbsp; Temple University; April 2024
+
+__Undergraduate Research Symposium__ &nbsp; College of Liberal Arts, Temple University; Sep 2022
 
 &nbsp; &nbsp; &nbsp; •	Poster presentation 
 
