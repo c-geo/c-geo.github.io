@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  
-permalink: /about/
+permalink: /CV/
 ---
 Researcher at University of Pennsylvania Granato Lab, Perelman School of Medicine, Department of Cell and Developmental Biology in Philadelphia, PA 
 

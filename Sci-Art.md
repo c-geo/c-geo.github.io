@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Sci-Art
 ---
 
-## Current Research Focus
+## Diamond Research Scholars Program (Temple University)
 Nov 2023
 
 
